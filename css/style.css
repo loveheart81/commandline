@@ -1,0 +1,54 @@
+.eng{
+    display: flex;
+    justify-content: space-around;
+    justify-items:center;
+    border-bottom: 2px solid whitesmoke;
+}
+
+
+.brit{
+    display: flex;
+    justify-content: space-between;
+}
+
+.brit select{
+    border: none;
+    border-right: 2px solid grey;
+    outline: none;
+    background-color: transparent;
+}
+
+.cart span{
+    margin: 8px;
+    border-left: 2px solid grey;
+}
+
+.cart{
+    margin-top: 12px;
+}
+
+.euro{
+    margin-top: 12px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
